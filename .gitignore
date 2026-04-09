@@ -1,21 +1,14 @@
-<<<<<<< HEAD
 # Dart
 .dart_tool/
 .pub/
 build/
 pubspec.lock
 
-# macOS  
+# macOS
 .DS_Store
-.DS_Store
-=======
-# https://dart.dev/guides/libraries/private-files
-# Created by `dart pub`
-.dart_tool/
->>>>>>> 8c665079742f622124a5e5ad649cbe115d393667
-.DS_Store
-.dart_tool/
-pubspec.lock
-pubspec.yaml
-analysis_options.yaml
-CHANGELOG.md
+
+# IDE
+.vscode/
+*.iml
+*.ipr
+*.iws
