@@ -1,0 +1,9 @@
+# Dart
+.dart_tool/
+.pub/
+build/
+pubspec.lock
+
+# macOS  
+.DS_Store
+.DS_Store
